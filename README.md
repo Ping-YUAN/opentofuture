@@ -1,6 +1,6 @@
 # Open+
 
-An innoviation bank application especially for **disabled people**.
+An innovation bank application especially for **disabled people**.
 
 <img src="./resource/opentofuture.png" alt="open+ log Image."/>
 
