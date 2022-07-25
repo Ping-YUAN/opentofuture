@@ -24,9 +24,11 @@ Open+ works on top of APIs on Finastra’s **FusionFabric.cloud platform** which
 [Demo Video]()
 
 ## Tech architecture
-
-[Fusionfabric Cloud Servcies](./ffdc-services/README.MD)
-
-[Bank Service portal]()
-
 [Application Architecture]()
+
+We provide a [Bank Service portal]() for bank to onboard their applications. Bank admin can configration the client secret to secure their api call from fusionfabric.cloud. 
+They can also map the user from bank to fusionfabric.cloud so that the clinet can login directly with face or voice without any account number to reduce the complexity for disabled people.  
+
+All the request to bank should come from [fusionfabric Cloud Servcies](./ffdc-services/README.MD) where the bank can config and handle the client secret. It will be very safe for bank to allow this request. And fusionfabric.cloud will handle operations for banks, they don't need to work on the complex frontend if they don't want. And also if they want, they can integrate the api into their own apps to enhance their bank app's accessibilty. 
+
+Fusionfabric.cloud will encapsuaute the sdk and api from [Eye tracking solution](https://eyeware.tech/), [Voice recognition solution](https://www.ispeech.org/), [SLAIT](https://slait.ai/) for operation recognization and possible communication.. Fusionfabric.cloud will provide the api for applications to use. 
