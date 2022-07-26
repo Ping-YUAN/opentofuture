@@ -53,6 +53,6 @@ Open+ mobile application is made on top of FusionFabric API and devkit. All the 
 
 ### Libaray 
 <img src="https://static.tildacdn.com/tild3538-3236-4265-b137-373464343536/Logo_Full_Vice_Versa.svg" style="height: 40px;width: 100px; margin-right:10px" alt="slait">
-<img src="https://eyeware.tech/wp-content/uploads/2017/04/eyeware-logo-white.svg" alt="eyeware" style="height: 40px; width: 100px; margin-right: 10px; background-color:black"> <img src="./resource/ispeech.png" alt="ispeech" style="height: 40px;  margin-right: 10px ">
+<img src="./resource/eyeware.png" alt="eyeware" style="height: 40px; width: 160px; margin-right: 10px; background-color:black"> <img src="./resource/ispeech.png" alt="ispeech" style="height: 40px;  margin-right: 10px ">
 
 We won't recreate wheels for eye tracking and voice recognition. We use some libraries such  [Eye tracking solution](https://eyeware.tech/), [Voice recognition solution](https://www.ispeech.org/), [SLAIT](https://slait.ai/) to give us those powers. Furthermore, we encapsulate those tools to create our incredible API and devkit. 
