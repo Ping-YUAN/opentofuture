@@ -36,7 +36,7 @@ Open+ works on top of APIs on Finastra’s **FusionFabric.cloud platform** which
 [Figma Design file](https://www.figma.com/file/CzHrvNVGyDUd7YdFxD5IwY/OPEN%2B?node-id=0%3A1 
 )
 
-[Demo Video]()
+[Demo Video](https://youtu.be/u-Y5ggHTQOo)
 
 ## High Level Architecture
 
@@ -52,7 +52,7 @@ Open+ works on top of APIs on Finastra’s **FusionFabric.cloud platform** which
     <li>Post testing the application with test/UAT environment, financial institution can configure PROD tenant/backend instance and deploy the application live. 
     </li>
     <li>With successful configuration, a synchronous request-response architecture will be initiated and requests from customers will be routed through the secure architecture of the FusionFabric.cloud platform to the bank. </li>
-    <li>Open+ also offers URLs to implement SSO provision through which financial institution will be able to integrate the Open+ toolkit into their existing application, which enables them to provide a wide range of services to their customers having any sort of disabilities. </li>
+    <li>Financial institutions can integrate the Open+ toolkit into their existing application, which enables them to provide a wide range of services to their customers having any sort of disabilities.. </li>
 </ul>
 
  <img src="./resource/bank-service-portal.png">
